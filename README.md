@@ -1,37 +1,20 @@
-# KET-RAG: Knowledge-Enhanced Text Retrieval Augmented Generation
-
-<div align="center"> 
-<table border="0" width="100%">
-<tr>
-<td>
-<div>
-    <p style="text-align: center;">
-        <a href='https://github.com/waetr/KET-RAG/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-        <a href='https://arxiv.org/abs/2502.09304'><img src='https://img.shields.io/badge/arXiv-2502.09304-b31b1b'></a>
-        <img src="https://img.shields.io/badge/python-3.10-blue">
-        <a href='https://opensource.org/licenses/Apache-2.0'>
-    		<img src='https://img.shields.io/badge/License-Apache_2.0-blue.svg' alt='Apache 2.0 License'>
-		</a>
-    </p>
-    <p style="text-align: center;">
-        <img src="https://raw.githubusercontent.com/waetr/KET-RAG/main/ketrag.png" alt="KET-RAG Image" width="width: 70%; max-width: 800px;">
-    </p>
-</div>
-</td>
-</tr>
-</table>
-</div>
-
-**KET-RAG** is a powerful and flexible framework for retrieval-augmented generation (RAG) enhanced with knowledge graphs. This project allows for structured document indexing and efficient LLM-based answer generation.
+# StratGraph: A Cost-Efficient Graph-RAG Framework via Structural Stratified Sampling
 
 ## Overview
 
-KET-RAG balances retrieval quality and efficiency with a multi-granular indexing framework consisting of:
+This repository contains the official implementation of StratGraph, a novel cost-efficient Graph-RAG framework introduced in the paper "StratGraph: A Cost-Efficient Graph-RAG Framework via Structural Stratified Sampling".StratGraph addresses the systematic "Hub Bias" found in existing centrality-based pruning methods (such as PageRank) by prioritizing structural diversity over global centrality. Through its core Structural Stratified Sampling ($S^3$) strategy, it enforces proportional budget allocation across semantic communities, ensuring the retention of essential "bridging evidence" necessary for reliable multi-hop reasoning.
 
-- Knowledge Graph Skeleton (*SkeletonRAG*): Selects key text chunks via PageRank and extracts structured knowledge using LLMs.
-- Text-Keyword Bipartite Graph (*KeywordRAG*): Links keywords to text chunks, mimicking knowledge graph relationships with minimal cost.
+## Key Features
+- Mitigates Hub Bias: Shifts the indexing paradigm from global centrality ranking to structural diversity-aware selection, preventing the systematic suppression of critical evidence from peripheral long-tail semantic regions.
+- Structural Stratified Sampling ($S^3$): Integrates community detection (supporting both Geometric and Topological paradigms) with proportional budget allocation and local centrality ranking.
+- Dual-Granularity Index: Reconciles the need for high-level reasoning with broad lexical coverage by building a balanced index. This includes a Semantic Layer (Knowledge Graph Skeleton) and a Lexical Layer (Keyword-Bipartite graph).
+- Exceptional Cost-Efficiency: Consistently outperforms centrality-based baselines under equivalent budgets. Notably, it surpasses the strongest baseline even when the indexing budget is reduced by 20%.
 
-During retrieval, KET-RAG integrates information from both entity and keyword channels, enabling efficient and high-quality LLM-based answer generation. Experiments show that KET-RAG significantly reduces indexing costs while improving retrieval and generation quality, making it a practical solution for large-scale RAG applications.
+## Architecture
+The StratGraph framework operates in three main phases:
+- Topology Initialization: Models latent semantic relationships between text chunks using a lightweight proxy graph.
+- Stratified Skeleton Construction: Identifies a budget-constrained set of "Core Chunks" via the $S^3$ algorithm to form the semantic backbone.
+- Dual-Granularity Indexing: Supplements the KG skeleton with a fine-grained keyword-bipartite graph to ensure zero information loss.
 
 ## Prerequisites
 
