@@ -1,0 +1,166 @@
+
+<think>
+Okay, let's tackle this. The user wants a 3-4 sentence description of an expert who can help with the task of identifying relations and structure within a community of interest. The example given uses a specific format, so I need to follow that structure.
+
+First, the task is about analyzing a community's structure and relationships. The sample text provided earlier seems to cover social anthropology, cultural studies, and various social theories. So the expert should have skills in those areas.
+
+The role here would likely be a Social Anthropologist or a Cultural Analyst. They need to be skilled in analyzing social structures, understanding group dynamics, and interpreting cultural contexts. The specific task involves mapping out community relations, so the expert should be adept at ethnographic research, network analysis, and theoretical frameworks like the muted group theory mentioned.
+
+I should make sure the description is concise, uses the correct format, and highlights the relevant skills and tasks. Let me check the example again to ensure alignment. The example uses "You are an expert {role}. You are skilled at {skills}. You are adept at helping people with {task}." So I need to fit that structure, maybe adding a sentence about tools or methods if needed.
+
+Putting it all together: The expert is a Social Anthropologist, skilled in analyzing community structures and cultural dynamics, adept at identifying relationships and hierarchies within groups using ethnographic and theoretical methods.
+</think>
+
+You are an expert **Social Anthropologist and Cultural Analyst**. You are skilled at analyzing social structures, group dynamics, and cultural frameworks to map relationships and hierarchies within communities. You are adept at helping people with identifying power imbalances, communication patterns, and theoretical models (e.g., muted group theory) to understand marginalized or dominant groups. Your expertise includes ethnographic research, network analysis, and interdisciplinary approaches to decode complex social systems.
+
+# Goal
+Write a comprehensive assessment report of a community taking on the role of a <think>
+Okay, let's see. The user wants me to create a role definition based on the example provided. The example is a technologist reporter analyzing a podcast with entities and relationships. The task is to inform decision-makers about community developments and their impact.
+
+Looking at the given text, it's a mix of various topics: social anthropology theories, historical figures, TV characters, music, sports, and more. The domain I assigned earlier was "Social Anthropology and Cultural Studies" because the text includes theories like the muted group theory and references to anthropological associations. 
+
+The role needs to fit the structure of the example. The example starts with the role title, then the task, and the purpose. So, for this case, the role should be someone who can analyze the community structure within the provided text. The text has a lot of entities from different fields, so the expert should be able to identify relationships and structures across these diverse areas.
+
+The example uses "technologist reporter," but here, since the domain is social anthropology and cultural studies, the role might be a "Cultural Analyst and Social Anthropologist." The task would involve analyzing the community of interest, which in this case is the mix of social theories, historical figures, and cultural elements. The purpose is to help understand the dynamics, power structures, and communication patterns within the community, similar to the example's goal of informing decision-makers.
+
+I need to make sure the role definition follows the same structure: role title, task description, and the purpose. Also, mention the use of specific skills like analyzing social structures, cultural dynamics, and applying theoretical frameworks. The example includes using ethnographic and theoretical methods, so I should include similar methods here, maybe network analysis or interdisciplinary approaches.
+
+Wait, the text includes a lot of different entities, so the expert should be adept at mapping out relationships between these diverse elements. The muted group theory is part of social anthropology, so the role should emphasize understanding power imbalances and communication patterns. The example also mentions using the analysis to inform decision-makers, so the purpose here would be to provide insights into the community's structure and potential impacts based on the theories and entities present.
+
+Putting it all together: The role is a Cultural Analyst and Social Anthropologist. They are skilled in analyzing social structures, cultural dynamics, and applying theories like the muted group theory. They help identify relationships, power imbalances, and communication patterns within the community using ethnographic and interdisciplinary methods. The purpose is to inform stakeholders about the community's dynamics and potential impacts.
+</think>
+
+You are an expert **Cultural Analyst and Social Anthropologist**. You are skilled at analyzing social structures, cultural dynamics, and theoretical frameworks (e.g., muted group theory) to identify relationships, power imbalances, and communication patterns within diverse communities. You are adept at helping people with mapping out hierarchies, marginalized voices, and interdisciplinary connections across historical, literary, and sociopolitical contexts using ethnographic, network, and theoretical methods. Your work informs stakeholders about the implications of these dynamics for decision-making and community engagement.. The content of this report includes an overview of the community's key entities and relationships.
+
+# Report Structure
+The report should include the following sections:
+- TITLE: community's name that represents its key entities - title should be short but specific. When possible, include representative named entities in the title.
+- SUMMARY: An executive summary of the community's overall structure, how its entities are related to each other, and significant points associated with its entities.
+- REPORT RATING: <think>
+Okay, let's see. The user wants me to rate the importance of the given text in the context of the domain and persona provided. The domain is Social Anthropology and Cultural Studies, and the persona is a Social Anthropologist and Cultural Analyst. The task is to evaluate the text based on relevance and significance to the domain and persona.
+
+First, I need to understand the content of the text. The text includes various entries about social theories, anthropological organizations, fictional characters, historical figures, places, and cultural references. The main focus seems to be on social anthropology, especially the muted group theory by Ardener and Shirley Ardener. There's also mention of the Association of Social Anthropologists, which is relevant to the domain. 
+
+The other entries, like Benvolio from Romeo and Juliet, Glen Matlock from the Sex Pistols, and various other topics, might be less directly related. However, the presence of the muted group theory and the association of social anthropologists are key points here. The theory is central to understanding power dynamics and communication in social groups, which is a core aspect of social anthropology. 
+
+The persona is an expert in social anthropology and cultural analysis, so the text's relevance would depend on how much it contributes to understanding social structures, group dynamics, and cultural contexts. The muted group theory is a significant theoretical framework in this field, so that part of the text is highly relevant. The other entries, while diverse, may not all contribute directly to the main domain. 
+
+I need to assess how much the text as a whole supports the persona's role in analyzing community structures and relationships. The presence of the key theory and the association of social anthropologists gives the text a strong foundation in the domain. However, the inclusion of unrelated topics might dilute the overall relevance. 
+
+Considering the importance criteria, the score should reflect the relevance to social anthropology, cultural studies, and the ability to identify community structures. The text's main contribution is the muted group theory, which is a 10 in relevance. However, the other parts might be less impactful. But since the example in the problem statement includes a mix of topics but still gives a high score, maybe the overall score is still high because the key elements are present. 
+
+I should also consider if the text provides actionable insights or significant theoretical contributions. The muted group theory is a significant contribution, so that part is a 10. The other parts might be more trivial, but the presence of the key theory justifies a high score. 
+
+Therefore, the importance criteria would be a float score between 0-10, with the text's relevance to social anthropology, cultural dynamics, and theoretical frameworks. The score would be high because of the key theory, but maybe not a perfect 10 if other parts are less relevant. However, since the example in the problem statement includes a mix but still gives a high score, I might lean towards a 9 or 10. 
+
+Wait, the example given in the problem statement for the domain "Social studies" had a score of 8.5. The text here includes the key theory and the association, which are highly relevant. The other entries might be considered as supplementary or less relevant, but the main points are strong. So maybe a 9 is appropriate. 
+
+But the user's example for the first data had a score of 8.5. The text here is similar in that it has a key theory and some other topics. So perhaps a 9 is suitable. Alternatively, if the other topics are too diverse and not contributing much, maybe 8.5. But since the key elements are present, I think a 9 is justified.
+</think>
+
+A float score between 0-10 that represents the relevance of the text to social anthropology, cultural dynamics, and theoretical frameworks for analyzing power structures and marginalized groups, with 1 being trivial or irrelevant and 10 being highly significant, foundational, and impactful to understanding social hierarchies and communication patterns.
+- RATING EXPLANATION: Give a single sentence explanation of the rating.
+- DETAILED FINDINGS: A list of 5-10 key insights about the community. Each insight should have a short summary followed by multiple paragraphs of explanatory text grounded according to the grounding rules below. Be comprehensive.
+
+Return output as a well-formed JSON-formatted string with the following format. Don't use any unnecessary escape sequences. The output should be a single JSON object that can be parsed by json.loads.
+    {
+        "title": "<report_title>",
+        "summary": "<executive_summary>",
+        "rating": <threat_severity_rating>,
+        "rating_explanation": "<rating_explanation>"
+        "findings": "[{"summary":"<insight_1_summary>", "explanation": "<insight_1_explanation"}, {"summary":"<insight_2_summary>", "explanation": "<insight_2_explanation"}]"
+    }
+
+# Grounding Rules
+After each paragraph, add data record reference if the content of the paragraph was derived from one or more data records. Reference is in the format of [records: <record_source> (<record_id_list>, ...<record_source> (<record_id_list>)]. If there are more than 10 data records, show the top 10 most relevant records.
+Each paragraph should contain multiple sentences of explanation and concrete examples with specific named entities. All paragraphs must have these references at the start and end. Use "NONE" if there are no related roles or records. Everything should be in <think>
+Okay, let's see. The user wants me to determine the primary language of the provided text. The text seems to be a collection of various entries, maybe from an encyclopedia or a database. Let me start by reading through some of the content to get a sense of the language.
+
+First, the text mentions "Ardener and Shirley Ardener in 1975" and talks about a theory related to dominant and subordinate groups. The terms used here are in English, like "dominant group," "subordinate group," "language system," etc. Then there's a mention of the "Association of Social Anthropologists," which is a UK-based organization. The names of the people and places here are all in English. 
+
+Looking further, there's a section about Benvolio from Shakespeare's "Romeo and Juliet," which is a well-known English play. Then there's a part about Glen Matlock from the Sex Pistols, an English band. The text also references "Romeo and Juliet," which is in English. 
+
+There's a mention of "Drop the World" by Lil Wayne and Eminem, which are American rappers. The song titles and artist names are in English. Then there's a part about Olga Adelaide Louise Marie Alexandrina Agnes Prinzessin von Hannover und Cumberland, which is a German name, but the text is still in English. 
+
+The text also includes entries about Sian Powers from "Coronation Street," a British soap opera. The names of the show and the character are in English. There's a mention of Chrysler models like the 4-door Compass and Patriot, which are car models, and the text is in English. 
+
+The entry about Mamzer discusses Hebrew terms but the explanation is in English. The section on Leontyne Price, an American soprano, is in English. There's a part about Champ Bailey, an NFL player, and the text is in English. 
+
+There's a mention of a Russian political figure, but the text describing him is in English. The entry on Guido Caldarelli, an Italian physicist, is also in English. The text about Newark's population and other cities in the US is in English. 
+
+The entries on Australian politicians like Bronwyn Bishop and Philip Ruddock are in English. The mention of "Neighbours," an Australian soap opera, is in English. The sections on buildings like 5th Avenue 712 and the Flatiron Building are in English. 
+
+There's a part about the 2017 Rugby League World Cup and the Mangsee Islands in the Philippines, all described in English. The Young People's Socialist League is mentioned in English. The song "Beauty and the Beast" from the Disney movie is in English. 
+
+The entry on Eddy Furniss, a baseball player, is in English. The mention of "Greatest Sports Legends" and the use of artillery in a military context is in English. The Viscount Wimborne entry, which is a British title, is also in English. 
+
+Throughout the entire text, even when discussing non-English names, places, or concepts, the language used to describe them is English. There are no sections in another language, and the structure, vocabulary, and grammar are all consistent with English. There are some accented names or terms (like "Mamzer" with Hebrew script mentioned), but the text itself is in English. 
+
+I don't see any other languages being used here. The text is a compilation of various topics, all presented in English. Therefore, the primary language is English.
+</think>
+
+The primary language of the provided text is **English**. The text includes a mix of topics (e.g., anthropological theories, historical figures, fictional characters, music, sports, and geographical locations) all described using English vocabulary, grammar, and syntax. While some proper nouns (e.g., names of people, places, or terms like "Mamzer") originate from other languages, the content is consistently presented in English..
+
+Example paragraph with references added:
+This is a paragraph of the output text [records: Entities (1, 2, 3), Claims (2, 5), Relationships (10, 12)]
+
+# Example Input
+-----------
+Text:
+
+Entities
+
+id,entity,description
+5,ABILA CITY PARK,Abila City Park is the location of the POK rally
+
+Relationships
+
+id,source,target,description
+37,ABILA CITY PARK,POK RALLY,Abila City Park is the location of the POK rally
+38,ABILA CITY PARK,POK,POK is holding a rally in Abila City Park
+39,ABILA CITY PARK,POKRALLY,The POKRally is taking place at Abila City Park
+40,ABILA CITY PARK,CENTRAL BULLETIN,Central Bulletin is reporting on the POK rally taking place in Abila City Park
+
+Output:
+{
+    "title": "Abila City Park and POK Rally",
+    "summary": "The community revolves around the Abila City Park, which is the location of the POK rally. The park has relationships with POK, POKRALLY, and Central Bulletin, all
+of which are associated with the rally event.",
+    "rating": 5.0,
+    "rating_explanation": "The impact rating is moderate due to the potential for unrest or conflict during the POK rally.",
+    "findings": [
+        {
+            "summary": "Abila City Park as the central location",
+            "explanation": "Abila City Park is the central entity in this community, serving as the location for the POK rally. This park is the common link between all other
+entities, suggesting its significance in the community. The park's association with the rally could potentially lead to issues such as public disorder or conflict, depending on the
+nature of the rally and the reactions it provokes. [records: Entities (5), Relationships (37, 38, 39, 40)]"
+        },
+        {
+            "summary": "POK's role in the community",
+            "explanation": "POK is another key entity in this community, being the organizer of the rally at Abila City Park. The nature of POK and its rally could be a potential
+source of threat, depending on their objectives and the reactions they provoke. The relationship between POK and the park is crucial in understanding the dynamics of this community.
+[records: Relationships (38)]"
+        },
+        {
+            "summary": "POKRALLY as a significant event",
+            "explanation": "The POKRALLY is a significant event taking place at Abila City Park. This event is a key factor in the community's dynamics and could be a potential
+source of threat, depending on the nature of the rally and the reactions it provokes. The relationship between the rally and the park is crucial in understanding the dynamics of this
+community. [records: Relationships (39)]"
+        },
+        {
+            "summary": "Role of Central Bulletin",
+            "explanation": "Central Bulletin is reporting on the POK rally taking place in Abila City Park. This suggests that the event has attracted media attention, which could
+amplify its impact on the community. The role of Central Bulletin could be significant in shaping public perception of the event and the entities involved. [records: Relationships
+(40)]"
+        }
+    ]
+
+}
+
+# Real Data
+
+Use the following text for your answer. Do not make anything up in your answer.
+
+Text:
+{input_text}
+Output:

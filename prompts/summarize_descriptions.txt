@@ -1,0 +1,55 @@
+
+<think>
+Okay, let's tackle this. The user wants a 3-4 sentence description of an expert who can help with the task of identifying relations and structure within a community of interest. The example given uses a specific format, so I need to follow that structure.
+
+First, the task is about analyzing a community's structure and relationships. The sample text provided earlier seems to cover social anthropology, cultural studies, and various social theories. So the expert should have skills in those areas.
+
+The role here would likely be a Social Anthropologist or a Cultural Analyst. They need to be skilled in analyzing social structures, understanding group dynamics, and interpreting cultural contexts. The specific task involves mapping out community relations, so the expert should be adept at ethnographic research, network analysis, and theoretical frameworks like the muted group theory mentioned.
+
+I should make sure the description is concise, uses the correct format, and highlights the relevant skills and tasks. Let me check the example again to ensure alignment. The example uses "You are an expert {role}. You are skilled at {skills}. You are adept at helping people with {task}." So I need to fit that structure, maybe adding a sentence about tools or methods if needed.
+
+Putting it all together: The expert is a Social Anthropologist, skilled in analyzing community structures and cultural dynamics, adept at identifying relationships and hierarchies within groups using ethnographic and theoretical methods.
+</think>
+
+You are an expert **Social Anthropologist and Cultural Analyst**. You are skilled at analyzing social structures, group dynamics, and cultural frameworks to map relationships and hierarchies within communities. You are adept at helping people with identifying power imbalances, communication patterns, and theoretical models (e.g., muted group theory) to understand marginalized or dominant groups. Your expertise includes ethnographic research, network analysis, and interdisciplinary approaches to decode complex social systems.
+Using your expertise, you're asked to generate a comprehensive summary of the data provided below.
+Given one or two entities, and a list of descriptions, all related to the same entity or group of entities.
+Please concatenate all of these into a single, concise description in <think>
+Okay, let's see. The user wants me to determine the primary language of the provided text. The text seems to be a collection of various entries, maybe from an encyclopedia or a database. Let me start by reading through some of the content to get a sense of the language.
+
+First, the text mentions "Ardener and Shirley Ardener in 1975" and talks about a theory related to dominant and subordinate groups. The terms used here are in English, like "dominant group," "subordinate group," "language system," etc. Then there's a mention of the "Association of Social Anthropologists," which is a UK-based organization. The names of the people and places here are all in English. 
+
+Looking further, there's a section about Benvolio from Shakespeare's "Romeo and Juliet," which is a well-known English play. Then there's a part about Glen Matlock from the Sex Pistols, an English band. The text also references "Romeo and Juliet," which is in English. 
+
+There's a mention of "Drop the World" by Lil Wayne and Eminem, which are American rappers. The song titles and artist names are in English. Then there's a part about Olga Adelaide Louise Marie Alexandrina Agnes Prinzessin von Hannover und Cumberland, which is a German name, but the text is still in English. 
+
+The text also includes entries about Sian Powers from "Coronation Street," a British soap opera. The names of the show and the character are in English. There's a mention of Chrysler models like the 4-door Compass and Patriot, which are car models, and the text is in English. 
+
+The entry about Mamzer discusses Hebrew terms but the explanation is in English. The section on Leontyne Price, an American soprano, is in English. There's a part about Champ Bailey, an NFL player, and the text is in English. 
+
+There's a mention of a Russian political figure, but the text describing him is in English. The entry on Guido Caldarelli, an Italian physicist, is also in English. The text about Newark's population and other cities in the US is in English. 
+
+The entries on Australian politicians like Bronwyn Bishop and Philip Ruddock are in English. The mention of "Neighbours," an Australian soap opera, is in English. The sections on buildings like 5th Avenue 712 and the Flatiron Building are in English. 
+
+There's a part about the 2017 Rugby League World Cup and the Mangsee Islands in the Philippines, all described in English. The Young People's Socialist League is mentioned in English. The song "Beauty and the Beast" from the Disney movie is in English. 
+
+The entry on Eddy Furniss, a baseball player, is in English. The mention of "Greatest Sports Legends" and the use of artillery in a military context is in English. The Viscount Wimborne entry, which is a British title, is also in English. 
+
+Throughout the entire text, even when discussing non-English names, places, or concepts, the language used to describe them is English. There are no sections in another language, and the structure, vocabulary, and grammar are all consistent with English. There are some accented names or terms (like "Mamzer" with Hebrew script mentioned), but the text itself is in English. 
+
+I don't see any other languages being used here. The text is a compilation of various topics, all presented in English. Therefore, the primary language is English.
+</think>
+
+The primary language of the provided text is **English**. The text includes a mix of topics (e.g., anthropological theories, historical figures, fictional characters, music, sports, and geographical locations) all described using English vocabulary, grammar, and syntax. While some proper nouns (e.g., names of people, places, or terms like "Mamzer") originate from other languages, the content is consistently presented in English.. Make sure to include information collected from all the descriptions.
+If the provided descriptions are contradictory, please resolve the contradictions and provide a single, coherent summary.
+Make sure it is written in third person, and include the entity names so we have the full context.
+
+Enrich it as much as you can with relevant information from the nearby text, this is very important.
+
+If no answer is possible, or the description is empty, only convey information that is provided within the text.
+#######
+-Data-
+Entities: {entity_name}
+Description List: {description_list}
+#######
+Output:
